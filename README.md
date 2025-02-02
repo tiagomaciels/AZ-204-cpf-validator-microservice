@@ -19,7 +19,7 @@
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/tiagomaciels/AZ-204-cpf-validator-microservice.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
@@ -85,7 +85,7 @@ curl -X POST "http://localhost:7071/api/cpf-validator-microservice" -H "Content-
 
 ## Funcionalidades
 
-- Validação de CPF
+- Validação de CPF 
 
 ## Contato
 
