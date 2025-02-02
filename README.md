@@ -1,6 +1,6 @@
 # CPF Validator Microservice
 
-[2025] Este projeto é um microserviço para validação de CPF, desenvolvido em TypeScript e Node.js. Com o intuito de publicar nos recursos do Azure como parte do treinamento, ministrado pela Digital Innovation One, para a Certificação AZ-204 da Microsoft.
+[2025] Este projeto é um microsserviço para validação de CPF, desenvolvido em TypeScript e Node.js. Com o intuito de publicar nos recursos do Azure como parte do treinamento, ministrado pela Digital Innovation One, para a Certificação AZ-204 da Microsoft.
 
 ## Tecnologias Utilizadas
 
